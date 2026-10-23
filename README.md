@@ -1,6 +1,8 @@
 # Política de Privacidad — LicitaCheckAI, desarrollada y administrada por Intellecta Labs
 
-**Última actualización:** 14 de septiembre de 2026
+**Última actualización:** 22 de octubre de 2026
+
+> **Versión publicada:** https://nestordarioguarin-max.github.io/licitacheckai-legal/
 
 > **Resumen en una frase:** LicitaCheckAI, desarrollada y administrada por Intellecta Labs, analiza los documentos que el usuario carga (pliegos, términos de referencia y borradores de propuesta) con el único propósito de auditar licitaciones y generar el análisis solicitado por el propio usuario — y **no vende, alquila, ni comercializa de ninguna forma los datos personales ni los documentos de sus usuarios con terceros.**
 
@@ -12,7 +14,7 @@
 4. [No comercialización de datos](#4-no-comercialización-de-datos)
 5. [Compartición con terceros proveedores](#5-compartición-con-terceros-proveedores)
 6. [Cómo protegemos su información](#6-cómo-protegemos-su-información)
-7. [Retención y eliminación de datos](#7-retención-y-eliminación-de-datos)
+7. [Retención y eliminación de datos](#7-retención-y-eliminación-de-datos) ([7.1 Eliminación de cuenta](#71-eliminación-de-cuenta))
 8. [Sus derechos sobre sus datos](#8-sus-derechos-sobre-sus-datos)
 9. [Uso por menores de edad](#9-uso-por-menores-de-edad)
 10. [Cambios a esta política](#10-cambios-a-esta-política)
@@ -36,7 +38,7 @@ El núcleo de LicitaCheckAI es analizar los documentos que usted decide subir: p
 
 ### 2.2 Información de cuenta
 
-Si crea una cuenta o inicia sesión en la Aplicación, recopilamos datos básicos de identificación como su correo electrónico y, si aplica, su nombre. Estos datos se usan para autenticarlo, gestionar su suscripción y comunicarnos con usted sobre su cuenta.
+Para suscribirse a LicitaCheckAI, el usuario inicia sesión con su cuenta de Google (Google Sign-In). A través de este mecanismo recibimos únicamente su dirección de correo electrónico, su nombre y el identificador de su cuenta de Google. No recibimos ni almacenamos su contraseña de Google. Estos datos se usan para autenticarlo, vincular su suscripción y comunicarnos con usted sobre su cuenta.
 
 ### 2.3 Información de uso y del dispositivo
 
@@ -95,7 +97,24 @@ Cuando usted solicita un análisis, el contenido del documento se envía de form
 
 En consecuencia, sus documentos y resultados permanecen en su dispositivo hasta que usted elimine el análisis correspondiente dentro de la Aplicación, borre los datos de la aplicación desde los ajustes de su teléfono, o desinstale LicitaCheckAI — cualquiera de estas acciones elimina esa información de forma definitiva de su parte, ya que no existe una copia adicional en nuestros servidores.
 
-**Información de cuenta y solicitud de borrado:** Los datos de su cuenta (correo electrónico) y su estado de suscripción se conservan mientras su cuenta permanezca activa, y hasta **30 días hábiles** después de que solicite su eliminación. El usuario puede solicitar la eliminación total de su cuenta y datos asociados en cualquier momento desde la propia aplicación o escribiendo al correo indicado en la sección de contacto.
+Los datos de su cuenta y su estado de suscripción se conservan mientras su cuenta permanezca activa, y se eliminan conforme a la sección 7.1.
+
+### 7.1 Eliminación de cuenta
+
+En cumplimiento de la política de eliminación de cuentas de Google Play, el usuario que haya creado una cuenta o iniciado sesión en LicitaCheckAI con su cuenta de Google puede solicitar en cualquier momento la eliminación total de su cuenta y de los datos asociados, por cualquiera de estas vías:
+
+1. **Desde la Aplicación:** en *Ajustes › Mi cuenta › Eliminar cuenta*. La Aplicación le pedirá confirmar la acción antes de procesarla.
+2. **Sin la Aplicación (por correo electrónico):** si ya no tiene la Aplicación instalada o prefiere no usarla, escriba a [nestordarioguarin@gmail.com](mailto:nestordarioguarin@gmail.com) desde la misma dirección de correo asociada a su cuenta de Google, con el asunto **"Eliminación de cuenta – LicitaCheckAI"**. Para proteger su cuenta, solo procesaremos solicitudes enviadas desde esa dirección. Le confirmaremos por correo la recepción de su solicitud y la finalización del proceso.
+
+**Qué se elimina:** su correo electrónico, su nombre, el identificador de su cuenta de Google, su estado de suscripción, su historial de consumo de análisis y el registro de cliente asociado en nuestro gestor de suscripciones (RevenueCat). Si elimina la cuenta desde la Aplicación, también se borran los documentos y análisis guardados en el almacenamiento local de su dispositivo. Si la solicitud se hace por correo, esos documentos y análisis locales no pueden ser borrados por nosotros, ya que nunca salen de su dispositivo; puede eliminarlos usted mismo desinstalando la Aplicación o borrando sus datos desde los ajustes del teléfono.
+
+**Plazo:** la eliminación se completa en un máximo de **30 días hábiles** contados desde la solicitud. Durante ese período la cuenta queda desactivada y no puede utilizarse.
+
+**Qué podemos conservar:** únicamente los registros de transacciones de pago que la ley exige guardar con fines contables, fiscales o de prevención de fraude, y solo durante el plazo legal correspondiente. Estos registros los mantienen principalmente Google Play y RevenueCat conforme a sus propias políticas y no incluyen los documentos que usted analizó.
+
+**Importante sobre su suscripción:** eliminar su cuenta de LicitaCheckAI **no cancela automáticamente** su suscripción en Google Play. Para evitar cobros futuros, cancélela en *Google Play Store › Pagos y suscripciones › Suscripciones* antes de solicitar la eliminación.
+
+**Acceso de Google:** eliminar su cuenta en LicitaCheckAI no borra su cuenta de Google. Si además desea revocar el permiso de inicio de sesión que otorgó a la Aplicación, puede hacerlo en *Cuenta de Google › Seguridad › Conexiones con apps y servicios de terceros*.
 
 ## 8. Sus derechos sobre sus datos
 
